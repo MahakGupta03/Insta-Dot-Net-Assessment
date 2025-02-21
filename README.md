@@ -39,7 +39,7 @@ Modify the application.properties or application.yml file with your database cre
             spring.application.name=flatmateFightResolver
             server.port=8080
             spring.datasource.url=jdbc:mysql://localhost:3306/flatmates
-            pring.datasource.username=<your-password>
+            spring.datasource.username=<your-password>
             spring.datasource.password=<your-password>
             spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
             spring.jpa.hibernate.ddl-auto=update
